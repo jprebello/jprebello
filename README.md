@@ -1,4 +1,6 @@
-<h1>Seja bem-vindo, me chamo João Pedro Rebello 👨🏻‍💻</h1>
+![github-profile (1)](https://user-images.githubusercontent.com/102878017/217663511-9cf5ac73-0254-4110-a8e3-b165c379e58e.jpg)
+
+<h1>Seja bem-vindo 👨🏻‍💻</h1>
 
 <p>
   Estudante de Ciência da Computação na Universidade Federal Fluminense e Desenvolvimento Front-End/Web Design pela Origamid. Aqui no Github exponho alguns dos meus  principais projetos, além da minha constante evolução.

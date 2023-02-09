@@ -1,13 +1,14 @@
-![github-profile (1)](https://user-images.githubusercontent.com/102878017/217663511-9cf5ac73-0254-4110-a8e3-b165c379e58e.jpg)
+<img src="https://user-images.githubusercontent.com/102878017/217678175-eeb94750-efaa-49d9-ba4e-38a4fabcf124.jpg">
 
-<h1>Seja bem-vindo 👨🏻‍💻</h1>
+<h1>Seja bem-vindo!!! 👋</h1>
 
-<p>
-  Estudante de Ciência da Computação na Universidade Federal Fluminense e Desenvolvimento Front-End/Web Design pela Origamid. Aqui no Github exponho alguns dos meus  principais projetos, além da minha constante evolução.
-</p>
+- Estudante de Ciência da Computação na Universidade Federal Fluminense 🎓
+- Aprendendo Desenvolvimento Front-End/Web Design na Origamid 💻
+- Certificados conquistados ✅
+- Desenvolvendo projetos 👨🏻‍💻
 
 <div><br>
-  Habilidades :
+  <h3>Habilidades :</h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">

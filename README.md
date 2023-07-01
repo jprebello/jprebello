@@ -3,7 +3,7 @@
 <h1>Seja bem-vindo!!! 👋</h1>
 
 - 📚 Estudante de Ciência da Computação na Universidade Federal Fluminense 
-- 💻 Aprendendo Desenvolvimento Front-End/Web Design na Origamid 
+- 💻 Aprendendo programação e tecnologia
 - ✅ Certificados conquistados 
 - 👨🏻‍💻 Desenvolvendo projetos
 

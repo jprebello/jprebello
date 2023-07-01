@@ -1,5 +1,3 @@
-<img src="https://user-images.githubusercontent.com/102878017/217685599-d8a0387f-3e7d-4868-9d61-b1ad1aa00580.jpg">
-
 <h1>Seja bem-vindo!!! 👋</h1>
 
 - 📚 Estudante de Ciência da Computação na Universidade Federal Fluminense 

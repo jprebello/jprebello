@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-<h3>Outras habilidades :</h3>
+<h3>Outras Habilidades :</h3>
 <table>
   <tr>
     <td><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></td>
@@ -24,3 +24,5 @@
     <td><img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></td>
   </tr>
 </table>
+
+<h3>Meus Projetos 👇<h3>
